@@ -3,13 +3,6 @@
 #include <time.h>
 #include <stdbool.h>
 
-/*
-Emelly Alves da Gama - RA: 21592269;
-Vinicius Henrique Medeiros Soares - RA: 21433620;
-Caique Rodrigues Simões- RA: 20501139;
-Yuri G. W. Calori Lemes - RA: 21577292;
-*/
-
 int main(){
     int interacoes = 0, sala = 1, escolha;
     bool vaiProPortal;
